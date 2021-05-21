@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532423283160",
+    "project_id": "calma-50fe6",
+    "storage_bucket": "calma-50fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532423283160:android:51819a9ddaf2350b38a2ad",
+        "android_client_info": {
+          "package_name": "com.pidevv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532423283160-kq15j6nfdb1fv51qi4fnqouar4avqhu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-7O0XgayA_kNm7QM9BBsBSECpg4b638"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532423283160-kq15j6nfdb1fv51qi4fnqouar4avqhu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
